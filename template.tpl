@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Insider Cart Page",
+  "displayName": "Cart Page Insider",
   "categories": ["CONVERSIONS","ATTRIBUTION","ANALYTICS"],
   "brand": {
     "id": "brand_dummy",
