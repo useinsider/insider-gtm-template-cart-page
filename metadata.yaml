@@ -1,5 +1,0 @@
-homepage: "https://useinsider.com/"
-documentation: "https://developers.useinsider.com/docs"
-versions:
-  - sha: 9c97538d8ff26fe91fca0a43229b00f2b6d61a31
-    changeNotes: First release cart page identifier.
